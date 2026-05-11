@@ -105,7 +105,7 @@ function Index() {
             </div>
             <Link to="/services" className="inline-flex items-center gap-2 text-sm font-semibold text-accent">
               View all 13 treatments <ArrowRight className="w-4 h-4" />
-            </Linkф>.</Link>
+            </Link>
           </div>
 
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
